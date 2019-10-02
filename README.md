@@ -1,2 +1,2 @@
 # heavytail_scaling
-MATLAB code used to analyze the interaction data
+These are MATLAB codes used to analyze the interaction data of honeybees and humans. 
